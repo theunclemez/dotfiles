@@ -1,0 +1,23 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-paintbrush")
+(name "Tube Cream")
+(tool-options "GimpPaintOptions"
+    (tool "gimp-paintbrush-tool")
+    (brush "Cream Tube")
+    (dynamics "Tube Soft")
+    (gradient "FG to BG (RGB)")
+    (palette "Default")
+    (brush-size 80)
+    (jitter-amount 0.34999999999999998))
+(use-fg-bg no)
+(use-opacity-paint-mode yes)
+(use-brush yes)
+(use-dynamics yes)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette yes)
+(use-font no)
+
+# end of GIMP tool preset file

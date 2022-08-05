@@ -1,0 +1,9 @@
+# GIMP gimp-unified-transform-tool options
+
+(background (color-rgb 0 0 0))
+(composited-preview yes)
+(synchronous-preview yes)
+(grid-type thirds)
+(constrain-rotate yes)
+
+# end of gimp-unified-transform-tool options

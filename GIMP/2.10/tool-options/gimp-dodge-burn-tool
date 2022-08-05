@@ -1,0 +1,14 @@
+# GIMP gimp-dodge-burn-tool options
+
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0 0 0))
+(opacity 0)
+(brush "2. Hardness 050")
+(dynamics "Dynamics Off")
+(palette "Yvane_Design")
+(brush-size 12)
+(brush-hardness 0.5)
+(type burn)
+(mode shadows)
+
+# end of gimp-dodge-burn-tool options

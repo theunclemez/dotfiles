@@ -1,0 +1,138 @@
+# GIMP sessionrc
+# 
+# This file takes session-specific info (that is info, you want to keep
+# between two GIMP sessions).  You are not supposed to edit it manually, but
+# of course you can do.  The sessionrc will be entirely rewritten every time
+# you quit GIMP.  If this file isn't found, defaults are used.
+
+(session-info "toplevel"
+    (factory-entry "gimp-empty-image-window")
+    (position 200 100)
+    (size 640 480))
+(session-info "toplevel"
+    (factory-entry "gimp-single-image-window")
+    (position 0 28)
+    (size 1366 717)
+    (open-on-exit)
+    (aux-info
+        (left-docks-width "44")
+        (right-docks-width "269")
+        (maximized "yes"))
+    (gimp-toolbox
+        (side left))
+    (gimp-dock
+        (side right)
+        (book
+            (current-page 0)
+            (dockable "gimp-layer-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-tool-options"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-brush-grid"
+                (locked)
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-mypaint-brush-grid"
+                (locked)
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-gradient-list"
+                (locked)
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-palette-list"
+                (locked)
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-palette-editor"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")
+                    (edit-active "true")
+                    (current-data "Yvane_Design"))))
+        (book
+            (position 388)
+            (current-page 0)
+            (dockable "gimp-channel-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-vectors-list"
+                (tab-style automatic)
+                (preview-size 32)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-undo-history"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true")))
+            (dockable "gimp-document-list"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "true"))))))
+(session-info "toplevel"
+    (factory-entry "gimp-preferences-dialog")
+    (position 284 28)
+    (size 898 712))
+(session-info "toplevel"
+    (factory-entry "gimp-operation-tool-dialog")
+    (position 929 262))
+(session-info "toplevel"
+    (factory-entry "gimp-file-export-dialog")
+    (position 177 28)
+    (size 948 712))
+(session-info "toplevel"
+    (factory-entry "gimp-image-new-dialog")
+    (position 443 71))
+(session-info "toplevel"
+    (factory-entry "gimp-toolbox-color-dialog")
+    (position 181 160))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 177 28)
+    (size 948 712))
+(session-info "toplevel"
+    (factory-entry "gimp-keyboard-shortcuts-dialog")
+    (position 455 74)
+    (size 451 616))
+(session-info "toplevel"
+    (factory-entry "gimp-action-search-dialog")
+    (position 482 190)
+    (size 397 384))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 689 66)
+    (size 438 570))
+(session-info "toplevel"
+    (factory-entry "gimp-text-tool-dialog")
+    (position 864 169)
+    (size 358 258))
+(session-info "toplevel"
+    (factory-entry "gimp-curves-tool-dialog")
+    (position 568 49)
+    (size 414 650))
+(session-info "toplevel"
+    (factory-entry "gimp-controller-editor-dialog")
+    (position 609 28)
+    (size 436 584))
+(session-info "toplevel"
+    (factory-entry "gimp-gegl-tool-dialog")
+    (position 504 218))
+
+(hide-docks no)
+(single-window-mode yes)
+(show-tabs yes)
+(tabs-position 0)
+(last-tip-shown 0)
+
+# end of sessionrc

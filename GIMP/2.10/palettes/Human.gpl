@@ -1,0 +1,204 @@
+GIMP Palette
+Name: 02 Human
+Columns: 10
+#
+255 255 255	Skin 001
+242 238 231	Desert storm
+240 230 218	White linen
+232 219 202	Half spanish white
+220 203 175	White rock
+255 255 255	Skin 002
+246 234 224	Wisp pink
+245 229 218	Provincial pink
+215 186 183	Oyster pink
+192 117 134	Tapestry
+255 255 255	Skin 003
+248 221 199	Sazerac
+243 211 183	Tuft bush
+229 183 141	Burlywood
+217 163 115	Laser
+255 255 255	Skin 004
+243 217 213	Pale rose
+226 179 159	Shilo
+201 145 108	My pink
+191 134 103	Oriental pink
+255 255 255	Skin 005
+248 231 216	Chablis
+238 189 168	Beauty bush
+221 141 116	Whiskey sour
+187 110  94	Contessa
+255 255 255	Skin 006
+248 234 214	Serenade
+230 198 166	Raffia
+194 145 108	Barley corn
+134  88  60	Hot curry
+255 255 255	Skin 007
+248 191 158	Mandys pink
+230 146 100	Fire bush
+195  94  57	Sunglo
+116  51  36	Merlot
+255 255 255	Skin 008
+200 135  87	Burning sand
+181 116  71	Reno sand
+158  90  53	Desert
+118  58  31	Crown of thorns
+255 255 255	Skin 009
+173 133 125	Brandy rose
+146 109 103	Ferra
+ 87  55  49	Dark oak
+ 77  45  38	Espresso
+255 255 255	Skin 010
+214 179 160	Cashmere
+182 137 119	Brandy rose
+154 105  89	Au chico
+114  68  62	Tosca
+255 255 255	Skin 011
+216 186 179	Wafer
+172 130 123	Brandy rose
+156 117 110	Toast
+119  88  81	Pharlap
+255 255 255	Skin 012
+178 143 129	Sandrift
+166 133 119	Sorrell brown
+152 118 103	Hemp
+125  96  84	Roman coffee
+255 255 255	Skin 013
+178 155 142	Del rio
+161 133 118	Almond frost
+140 110  94	Ferra
+114  83  68	Pickled bean
+255 255 255	Skin 014
+189 163 135	Rodeo dust
+172 143 113	Sandrift
+152 119  89	Sorrell brown
+124  93  64	Yellow metal
+255 255 255	Skin 015
+169 135 108	Sandal
+142 108  83	Leather
+ 81  60  45	Paco
+ 77  56  40	Woodburn
+255 255 255	Skin 016
+247 210 143	Caramel
+207 163  96	Laser
+153 115  62	Stinger
+ 97  75  39	Dallas
+255 255 255	Skin 017
+210 204 179	Aths special
+202 197 176	Parchment
+152 141 117	Pale oyster
+119 110  90	Pablo
+255 255 255	Eyes 001
+ 70  93 134	Kimberly
+ 66  73  99	Arapawa
+ 67  78  96	Cello
+ 55  52  69	Martinique
+255 255 255	Eyes 002
+199 216 232	Hawkes blue
+179 205 230	French pass
+ 86 110 144	Waikawa grey
+ 44  65  96	Gulf blue
+255 255 255	Eyes 003
+108 148 199	Cold purple
+ 88 127 166	Eastern blue
+102 117 140	Slate gray
+ 40  50 103	Deep koamaru
+255 255 255	Eyes 004
+159 170 138	Locust
+ 61  71  44	Palm leaf
+ 63  67  44	Seaweed
+ 43  45  34	Green waterloo
+255 255 255	Eyes 005
+130 122  76	Clay creek
+126 123  88	Kokoda
+ 82  84  45	Grey green
+ 68  72  37	Bronzetone
+255 255 255	Eyes 006
+101  99  61	Woodland
+ 94  89  51	Verdigris
+201 127  56	Golden bell
+102  64  41	Jambalaya
+255 255 255	Eyes 007
+119 103  28	Mustard
+116 100  48	Himalaya
+114  94  59	Shingle fawn
+104  80  36	Ironbark
+255 255 255	Eyes 008
+166 145 127	Malta
+152 146 120	Pale oyster
+104  94  74	Makara
+ 68  59  40	Ash brown
+255 255 255	Eyes 009
+131  93  44	Hot curry
+102  65  12	Antique brass
+ 80  39   7	Brown bramble
+ 60  34   9	Brown pod
+255 255 255	Eyes 010
+ 94  49  16	Hairy heath
+ 68  25  16	Bordeaux
+ 73  42  39	Mahogany
+ 50  20  18	Rustic red
+255 255 255	Hair 001
+200 176 135	Coriander
+193 167 125	Pavlova
+177 152 112	Hillary
+144 118  82	Driftwood
+255 255 255	Hair 002
+191 179 156	Akaroa
+155 141 117	Pale oyster
+135 121  98	Squirrel
+118 105  83	Crocodile
+255 255 255	Hair 003
+173 156 139	Napa
+152 135 118	Almond frost
+136 119 101	Sand dune
+116  99  82	Pine cone
+255 255 255	Hair 004
+230 206 168	Givry
+219 191 151	Pancho
+191 156 111	Barley corn
+135  99  62	Mckenzie
+255 255 255	Hair 005
+219 181 138	Brandy
+191 150 104	Barley corn
+155 112  69	Stinger
+101  61  32	Oiled cedar
+255 255 255	Hair 006
+130 101  71	Potters clay
+102  68  47	Jambalaya
+ 79  46  30	Indian tan
+ 41  27  23	Wood bark
+255 255 255	Hair 007
+138 108  94	Ferra
+ 96  76  65	Congo brown
+ 87  68  57	Brown derby
+ 73  58  48	Bronze
+255 255 255	Hair 008
+178 157 148	Del rio
+ 66  43  35	Morocco brown
+ 54  35  27	Brown pod
+ 50  32  27	Wood bark
+255 255 255	Hair 009
+156 154 144	Foggy grey
+ 67  58  51	Blackwood
+ 41  33  30	Wood bark
+ 26  24  24	Livid brown
+255 255 255	Hair 010
+ 57  64  67	Charade
+ 39  45  49	Cinder
+ 28  35  38	Blue bark
+ 25  25  25	Nero
+255 255 255	Hair 011
+207 143  70	Sahara
+190 121  52	Brandy punch
+171 103  38	Tuscany
+130  66  24	Prairie sand
+255 255 255	Hair 012
+223 167 152	Shilo
+133  75  49	Paarl
+104  58  38	Oiled cedar
+ 96  44  29	Dark tan
+255 255 255	Hair 013
+131  51  40	Tall poppy
+109  67  65	Dark rimu
+ 99  35  27	Burgundy
+ 50  25  22	Rustic red

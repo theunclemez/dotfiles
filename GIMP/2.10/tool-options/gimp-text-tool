@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1 1 1))
+(palette "Yvane_Design")
+(font "DejaVu Sans Mono")
+(font-size 355)
+
+# end of gimp-text-tool options

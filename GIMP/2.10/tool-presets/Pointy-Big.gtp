@@ -1,0 +1,33 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-smudge")
+(name "Pointy Big")
+(tool-options "GimpSmudgeOptions"
+    (tool "gimp-smudge-tool")
+    (opacity 0.55300000000000005)
+    (brush "Bristle Round 01")
+    (dynamics "Smudge Structure")
+    (gradient "FG to BG (RGB)")
+    (palette "Default")
+    (brush-size 60.460000000000001)
+    (brush-angle -89.420000000000002)
+    (hard yes)
+    (use-jitter yes)
+    (jitter-amount 3)
+    (dynamics-expanded yes)
+    (fade-length 138)
+    (fade-unit percent)
+    (smoothing-quality 30)
+    (smoothing-factor 25.800000000000001)
+    (rate 97))
+(use-fg-bg no)
+(use-opacity-paint-mode yes)
+(use-brush yes)
+(use-dynamics yes)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette yes)
+(use-font no)
+
+# end of GIMP tool preset file

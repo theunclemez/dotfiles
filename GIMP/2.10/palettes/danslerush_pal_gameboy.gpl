@@ -1,0 +1,9 @@
+GIMP Palette
+Name: Game Boy
+Columns: 5
+#
+202 220 159	#CADC9F [ Background screen ]
+ 15  56  15	#0F380F
+ 48  98  48	#306230
+139 172  15	#8BAC0F
+155 188  15	#9BBC0F
