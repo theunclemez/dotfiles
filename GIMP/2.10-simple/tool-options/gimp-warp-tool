@@ -1,0 +1,7 @@
+# GIMP gimp-warp-tool options
+
+(behavior smooth)
+(effect-size 526.05999999999995)
+(real-time-preview yes)
+
+# end of gimp-warp-tool options

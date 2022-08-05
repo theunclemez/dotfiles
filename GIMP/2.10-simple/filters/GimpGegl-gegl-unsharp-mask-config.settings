@@ -1,0 +1,19 @@
+# settings
+
+(GimpGegl-gegl-unsharp-mask-config "2020-09-23 23:10:55"
+    (time 1600899055)
+    (std-dev 5)
+    (scale 0.90000000000000036)
+    (threshold 0))
+(GimpGegl-gegl-unsharp-mask-config "2020-07-28 00:27:10"
+    (time 1595892430)
+    (std-dev 3)
+    (scale 0.70000000000000018)
+    (threshold 0))
+(GimpGegl-gegl-unsharp-mask-config "Sharpen_Lenovo"
+    (time 0)
+    (std-dev 1)
+    (scale 0.5)
+    (threshold 0))
+
+# end of settings

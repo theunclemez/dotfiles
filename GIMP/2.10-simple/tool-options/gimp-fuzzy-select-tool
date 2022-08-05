@@ -1,0 +1,6 @@
+# GIMP gimp-fuzzy-select-tool options
+
+(operation add)
+(draw-mask yes)
+
+# end of gimp-fuzzy-select-tool options

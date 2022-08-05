@@ -1,0 +1,92 @@
+# settings
+
+(GimpGegl-gimp-colorize-config "2020-09-30 12:27:27"
+    (time 1601465247)
+    (hue 0.5)
+    (saturation 0.5)
+    (lightness 1)
+    (color (color-rgb 1 1 1)))
+(GimpGegl-gimp-colorize-config "2020-09-23 23:12:23"
+    (time 1600899143)
+    (hue 0.81666666666666676)
+    (saturation 0.83333333333333348)
+    (lightness -0.71764705882352942)
+    (color (color-rgb 0.23529411764705882 0.023529411764705882 0.25882352941176473)))
+(GimpGegl-gimp-colorize-config "2020-09-23 23:03:38"
+    (time 1600898618)
+    (hue 0.81666666666666676)
+    (saturation 0.83333333333333326)
+    (lightness -0.34545454545454546)
+    (color (color-rgb 0.54545454545454564 0.054545454545454564 0.59999999999999998)))
+(GimpGegl-gimp-colorize-config "2020-09-21 18:25:04"
+    (time 1600709104)
+    (hue 0.81944444444444453)
+    (saturation 0.59459459459459452)
+    (lightness 0.12941176470588234)
+    (color (color-rgb 0.7803921568627451 0.30588235294117649 0.82352941176470584)))
+(GimpGegl-gimp-colorize-config "2020-09-21 13:09:17"
+    (time 1600690157)
+    (hue 0.5)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.25 0.75 0.75)))
+(GimpGegl-gimp-colorize-config "2020-09-04 15:45:50"
+    (time 1599230750)
+    (hue 0.056296296296296254)
+    (saturation 0.91093117408906898)
+    (lightness -0.26213983050847467)
+    (color (color-rgb 0.70499999999999996 0.25989406779661001 0.032860169491525412)))
+(GimpGegl-gimp-colorize-config "2020-09-04 15:43:51"
+    (time 1599230631)
+    (gimp-mode overlay)
+    (hue 0.11140350877192982)
+    (saturation 0.78512396694214881)
+    (lightness -0.050980392156862786)
+    (color (color-rgb 0.84705882352941175 0.59999999999999998 0.10196078431372549)))
+(GimpGegl-gimp-colorize-config "2020-09-04 15:23:45"
+    (time 1599229425)
+    (hue 0.11140350877192982)
+    (saturation 0.78512396694214881)
+    (lightness -0.050980392156862786)
+    (color (color-rgb 0.84705882352941175 0.59999999999999998 0.10196078431372549)))
+(GimpGegl-gimp-colorize-config "2020-09-04 15:05:24"
+    (time 1599228324)
+    (gimp-mode lighten-only)
+    (hue 0.5)
+    (saturation 0.5)
+    (lightness 0)
+    (color (color-rgb 0.25 0.75 0.75)))
+(GimpGegl-gimp-colorize-config "2020-09-04 14:38:56"
+    (time 1599226736)
+    (gimp-mode burn)
+    (hue 0.49122807017543862)
+    (saturation 0)
+    (lightness 0.89803921568627443)
+    (color (color-rgb 0.94901960784313721 0.94901960784313721 0.94901960784313721)))
+(GimpGegl-gimp-colorize-config "Blue_Lenovo_colorize"
+    (time 0)
+    (hue 0.58333333333333337)
+    (saturation 1)
+    (lightness 0)
+    (color (color-rgb 0 0.5 1)))
+(GimpGegl-gimp-colorize-config "L4E-Eyes-Colorization"
+    (time 0)
+    (gimp-mode screen)
+    (hue 0.83333333333333337)
+    (saturation 0.90476190476190466)
+    (lightness -0.054999999999999938)
+    (color (color-rgb 0.90000000000000002 0.04500000000000004 0.90000000000000002)))
+(GimpGegl-gimp-colorize-config "Pink_Lenovo_colorize"
+    (time 0)
+    (hue 0.83333333333333337)
+    (saturation 0.90476190476190466)
+    (lightness -0.054999999999999938)
+    (color (color-rgb 0.90000000000000002 0.04500000000000004 0.90000000000000002)))
+(GimpGegl-gimp-colorize-config "Schykle"
+    (time 0)
+    (hue 0.81851851851851853)
+    (saturation 0.77182235834609492)
+    (lightness 0.12348993288590604)
+    (color (color-rgb 0.83986577181208077 0.22348993288590602 0.90000000000000002)))
+
+# end of settings

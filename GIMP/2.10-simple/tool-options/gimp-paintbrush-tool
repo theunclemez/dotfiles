@@ -1,0 +1,15 @@
+# GIMP gimp-paintbrush-tool options
+
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0 0 0))
+(opacity 0.93000000000000005)
+(brush "Pencil 01")
+(dynamics "Dynamics Off")
+(gradient "Custom")
+(palette "Fedora RGB")
+(brush-size 50)
+(brush-spacing 0.050000000000000003)
+(application-mode incremental)
+(use-smoothing yes)
+
+# end of gimp-paintbrush-tool options

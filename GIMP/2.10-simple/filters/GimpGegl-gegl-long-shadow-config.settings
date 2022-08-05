@@ -1,0 +1,25 @@
+# settings
+
+(GimpGegl-gegl-long-shadow-config "2020-08-10 13:37:13"
+    (time 1597063033)
+    (gimp-mode behind)
+    (gimp-opacity 0.15000000000000002)
+    (style fading-fixed-length)
+    (angle 45)
+    (length 567.60000000000002)
+    (midpoint 100)
+    (midpoint-rel 0.5)
+    (color (color-rgba 0 0 0 1))
+    (composition shadow-plus-image))
+(GimpGegl-gegl-long-shadow-config "2020-07-28 00:54:59"
+    (time 1595894099)
+    (gimp-opacity 0.34999999999999992)
+    (style fading)
+    (angle 76.047522231915082)
+    (length 65.099999999999994)
+    (midpoint 112)
+    (midpoint-rel 0.5)
+    (color (color-rgba 0 0 0 1))
+    (composition shadow-plus-image))
+
+# end of settings
