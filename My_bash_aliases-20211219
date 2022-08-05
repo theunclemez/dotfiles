@@ -1,0 +1,31 @@
+# Package Management
+alias suiton="sudo apt update && sudo apt upgrade"
+
+#youtube content download
+alias youtube="yt-dlp -f best --embed-thumbnail --convert-thumbnails png -N 16 --windows-filenames "
+alias yoump3="yt-dlp --extract-audio -f best "
+alias gethumb="yt-dlp --get-thumbnail --convert-thumbnails png "
+#alias gethumb="yt-dlp --write-thumbnail --convert-thumbnails png "
+
+# command line download method
+alias download="wget -c "
+alias fetcher="aria2 -c "
+
+## Networking
+alias ping8='ping -c 8'
+alias ipp='curl ipinfo.info/ip'
+alias myip="curl http://ipecho.net/plain; echo"
+
+#switch between bash and zsh
+alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
+alias tozsh="sudo chsh $USER -s /bin/zsh && echo 'Now log out.'"
+
+alias ~="cd ~ && source ~/.bashrc"
+
+#get the error messages from journalctl
+alias journal="journalctl -p 3 -xb"
+
+#know my weather
+alias weather='curl wttr.in/Brazzaville'
+
+
