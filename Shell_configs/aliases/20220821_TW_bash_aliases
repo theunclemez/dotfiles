@@ -1,0 +1,34 @@
+# Package Management
+alias suiton='sudo sh -c "zypper cc -a && zypper ref -f && zypper up"'
+alias timer="journalct l -u zypper-dup-download-only.service"
+alias search="zypper se "
+alias info="zypper info "
+alias ~="cd ~ && source ~/.bashrc"
+alias ~="cd ~ && source ~/.bashrc"
+alias exa="exa -abghHliS --long --tree"
+
+#youtube content download
+alias youtube="yt-dlp -N 8 "
+alias youbest="yt-dlp -f b --embed-thumbnail -N 8 "
+alias yoump3="yt-dlp --extract-audio "
+alias gethumb="yt-dlp --get-thumbnail "
+
+# command line download method
+alias download="wget -c "
+alias fetcher="aria2c -c "
+
+## Networking
+alias ping8='ping -c 8'
+alias myip="curl http://ipecho.net/plain; echo"
+alias boxping='ping -c 8 192.168.1.67'
+
+#switch between bash and zsh
+alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
+alias tozsh="sudo chsh $USER -s /bin/zsh && echo 'Now log out.'"
+
+#System infos
+alias journal="journalctl -p 3 -xb"
+alias inxi='inxi -SMGC'
+
+#know my weather
+alias weather='curl wttr.in/Brazzaville'
